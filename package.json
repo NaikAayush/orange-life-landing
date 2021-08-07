@@ -1,0 +1,25 @@
+{
+  "name": "open-pro-vue",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.3.2",
+    "aos": "^3.0.0-beta.6",
+    "cruip-js-toolkit": "^1.1.2",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.1",
+    "@vue/compiler-sfc": "^3.0.5",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "sass": "^1.32.11",
+    "tailwindcss": "^2.1.1",
+    "vite": "^2.1.5"
+  }
+}
