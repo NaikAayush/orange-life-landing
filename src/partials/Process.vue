@@ -12,8 +12,7 @@
           >
             Our aim is to put the patient in control of their medical data,
             giving them the power to share the single, most comprehensive
-            version of their record, with every organisation in their medical
-            network.
+            version of their record.
           </p>
         </div>
 
@@ -79,8 +78,7 @@
               <span class="text-gray-400">1</span>. Upload
             </h4>
             <p class="text-lg text-gray-400 text-center">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur.
+                Select your file and upload. As simple as that.
             </p>
           </div>
 
@@ -137,8 +135,7 @@
               <span class="text-gray-400">2</span>. Encrypt
             </h4>
             <p class="text-lg text-gray-400 text-center">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur.
+                A securely generated passphrase and a password that <i>you</i> choose, is used to encrypt your records.
             </p>
           </div>
 
@@ -176,8 +173,7 @@
             </svg>
             <h4 class="h4 mb-2"><span class="text-gray-400">3</span>. Share</h4>
             <p class="text-lg text-gray-400 text-center">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur.
+                Scan their QR code and with the click of a button, they will have access to your records. Revoke their access whenever you want.
             </p>
           </div>
         </div>

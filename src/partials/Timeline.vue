@@ -6,13 +6,13 @@
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
           <h2 class="h2 mb-4">Bringing the world's ideas to life</h2>
-          <p class="text-xl text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <p class="text-xl text-gray-400">The project started as a submission to EthOdyssey 2021 hackathon.</p>
         </div>
 
         <!-- Items -->
+        <!--
         <div class="max-w-3xl mx-auto -my-4 md:-my-6" data-aos-id-timeline>
 
-          <!-- 1st item -->
           <div class="relative py-4 md:py-6 pl-24" data-aos="fade-up" data-aos-anchor="[data-aos-id-timeline]">
             <div class="pl-2">
               <div class="font-architects-daughter text-xl text-purple-600 mb-2">The seed</div>
@@ -26,7 +26,6 @@
             </div>
           </div>
 
-          <!-- 2nd item -->
           <div class="relative py-4 md:py-6 pl-24" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-timeline]">
             <div class="pl-2">
               <div class="font-architects-daughter text-xl text-purple-600 mb-2">New features</div>
@@ -40,7 +39,6 @@
             </div>
           </div>
 
-          <!-- 3rd item -->
           <div class="relative py-4 md:py-6 pl-24" data-aos="fade-up" data-aos-delay="400" data-aos-anchor="[data-aos-id-timeline]">
             <div class="pl-2">
               <div class="font-architects-daughter text-xl text-purple-600 mb-2">Pivoting</div>
@@ -54,7 +52,6 @@
             </div>
           </div>
 
-          <!-- 4th item -->
           <div class="relative py-4 md:py-6 pl-24" data-aos="fade-up" data-aos-delay="600" data-aos-anchor="[data-aos-id-timeline]">
             <div class="pl-2">
               <div class="font-architects-daughter text-xl text-purple-600 mb-2">Huge milestone</div>
@@ -67,7 +64,7 @@
             </div>
           </div>
 
-        </div>
+        </div>-->
 
       </div>
     </div>

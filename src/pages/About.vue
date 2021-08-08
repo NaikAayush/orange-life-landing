@@ -52,10 +52,10 @@ export default {
     TeamImages,
     Timeline,
     Team,
-    TestimonialsCarousel,
-    Career,
-    Clients,
-    Newsletter,
+    /* TestimonialsCarousel, */
+    /* Career, */
+    /* Clients, */
+    /* Newsletter, */
     Footer,
   },
 };

@@ -70,7 +70,7 @@
                   mb-4
                   sm:w-auto sm:mb-0
                 "
-                href="#0"
+                href="https://life.theorange.network/"
                 >Get Started</a
               >
             </div>
@@ -84,7 +84,7 @@
                   w-full
                   sm:w-auto sm:ml-4
                 "
-                href="#0"
+                href="/features"
                 >Learn more</a
               >
             </div>

@@ -54,7 +54,7 @@
                 >About us</router-link
               >
             </li>
-            <li>
+            <!--<li>
               <router-link
                 to="/help"
                 class="
@@ -70,7 +70,7 @@
                 "
                 >FAQ</router-link
               >
-            </li>
+            </li>-->
             <!-- 1st level: hover -->
             <!-- <Dropdown title="Support">
               <li>

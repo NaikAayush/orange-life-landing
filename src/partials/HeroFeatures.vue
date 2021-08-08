@@ -51,18 +51,18 @@
         <!-- Content -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16">
           <h1 class="h1 mb-4" data-aos="fade-up">
-            Keep track of every important detail
+            Manage all your medical records
           </h1>
           <p
             class="text-xl text-gray-400"
             data-aos="fade-up"
             data-aos-delay="200"
           >
-            Every feature in Open PRO makes things easy to build, pleasant to
-            create, and simple to manage.
+              Orange Life makes it easy, secure and private. Your records are in your hands.
           </p>
         </div>
         <!-- Image -->
+        <!-- TODO: orange: change image -->
         <img
           class="mx-auto"
           src="../images/hero-image-02.png"

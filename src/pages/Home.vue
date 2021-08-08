@@ -45,11 +45,11 @@ export default {
     PageIllustration,
     HeroHome,
     Process,
-    FeaturesHome,
-    Tabs,
-    Target,
-    News,
-    Newsletter,
+    /* FeaturesHome, */
+    /* Tabs, */
+    /* Target, */
+    /* News, */
+    /* Newsletter, */
     Footer,
   },
 };
