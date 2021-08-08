@@ -65,7 +65,7 @@
         <!-- TODO: orange: change image -->
         <img
           class="mx-auto"
-          src="../images/hero-image-02.png"
+          src="../images/some-records.png"
           width="768"
           height="432"
           alt="Hero"

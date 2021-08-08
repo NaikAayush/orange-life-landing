@@ -100,7 +100,7 @@
           >
             <img
               class="mx-auto"
-              src="../images/hero-image-01.jpg"
+              src="../images/Cover-W.png"
               width="1024"
               height="504"
               alt="Hero"
@@ -153,12 +153,9 @@
             @handleClose="videoModalOpen = false"
           >
             <div class="relative pb-9/16">
-              <iframe
-                class="absolute w-full h-full"
-                src="https://player.vimeo.com/video/174002812"
-                title="Video"
-                allowFullScreen
-              ></iframe>
+              <iframe id="ytplayer" class="absolute w-full h-full" title="Video" allowFullScreen
+  src="https://www.youtube.com/embed/C411X962f0o?autoplay=1&origin=https://landing.life.theorange.network"
+  frameborder="0"></iframe>
             </div>
           </Modal>
         </div>

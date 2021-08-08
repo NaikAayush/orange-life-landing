@@ -89,7 +89,7 @@
           <div class="md:grid md:grid-cols-12 md:gap-6 items-center">
             <!-- Image -->
             <div class="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
-              <img class="max-w-full mx-auto md:max-w-none h-auto" src="../images/features-03-image-03.png" width="540" height="405" alt="Features 03" />
+              <img class="max-w-full mx-auto md:max-w-none h-auto" src="../images/digital_signature.jpg" width="540" height="405" alt="Features 03" />
             </div>
             <!-- Content -->
             <div class="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
@@ -114,7 +114,7 @@
                     <svg class="w-3 h-3 fill-current text-green-500 mr-2 flex-shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                       <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                     </svg>
-                    <span>No one can pretend to be you</span>
+                    <span></span>
                   </li>
                 </ul>
               </div>

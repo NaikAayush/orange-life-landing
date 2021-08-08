@@ -16,7 +16,7 @@
           <article class="flex flex-col h-full" data-aos="fade-up">
             <a class="block" href="https://github.com/orange-life">
               <figure class="relative h-0 pb-9/16 overflow-hidden">
-                <img class="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src="../images/news-10.jpg" width="352" height="198" alt="News 10" />
+                <img class="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src="../images/open-source.png" width="352" height="198" alt="News 10" />
                 <figcaption class="absolute top-0 right-0 mt-4 mr-4 text-xs font-medium inline-flex text-center text-gray-100 py-1 px-3 rounded-full bg-gray-900 bg-opacity-75 pointer-events-none" href="https://github.com/orange-life">GitHub</figcaption>
               </figure>
             </a>
