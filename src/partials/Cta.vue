@@ -5,12 +5,12 @@
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16" data-aos-id-cta>
 
           <!-- Section header -->
-          <h1 class="h2 mb-4" data-aos="fade-up" data-aos-anchor="[data-aos-id-cta]">Ready to create better products?</h1>
-          <p class="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-cta]">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consequat.</p>
+          <h1 class="h2 mb-4" data-aos="fade-up" data-aos-anchor="[data-aos-id-cta]">Ready to secure your records?</h1>
+          <p class="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-cta]">Just create your keys and start uploading!</p>
 
           <!-- CTA button -->
           <div class="flex justify-center mb-8" data-aos="fade-up" data-aos-delay="400" data-aos-anchor="[data-aos-id-cta]">
-            <a class="btn text-white bg-purple-600 hover:bg-purple-700" href="#0">Start free trial</a>
+            <a class="btn text-white bg-purple-600 hover:bg-purple-700" href="https://life.theorange.network/">Get Started</a>
           </div>
 
           <!-- Check list -->
@@ -19,19 +19,19 @@
               <svg class="w-3 h-3 fill-current text-green-500 mr-2 flex-shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                 <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
               </svg>
-              <span>Free 14-day trial</span>
+              <span>No wallets or cryptocurrency</span>
             </li>
             <li class="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="800" data-aos-anchor="[data-aos-id-cta]">
               <svg class="w-3 h-3 fill-current text-green-500 mr-2 flex-shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                 <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
               </svg>
-              <span>Unlimited users</span>
+              <span>Any type of document</span>
             </li>
             <li class="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="1000" data-aos-anchor="[data-aos-id-cta]">
               <svg class="w-3 h-3 fill-current text-green-500 mr-2 flex-shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                 <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
               </svg>
-              <span>Volume discounts</span>
+              <span>No names or KYC</span>
             </li>
           </ul>
 

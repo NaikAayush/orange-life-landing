@@ -5,8 +5,8 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-          <p class="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <h2 class="h2 mb-4">Decentralized does not mean difficult.</h2>
+          <p class="text-xl text-gray-400"><i>No single entity, except you, controls the records you upload.</i> No hospital, no insurance company or any other organization can tamper with your records. Even with this decentralization, you can upload and access your records all from a single easy-to-use platform.</p>
         </div>
 
         <!-- Items -->
@@ -19,8 +19,8 @@
               <path class="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" stroke-linecap="square" stroke-width="2" fill="none" fill-rule="evenodd" />
               <path class="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" stroke-linecap="square" stroke-width="2" />
             </svg>
-            <h4 class="h4 mb-2">Instant Features</h4>
-            <p class="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+            <h4 class="h4 mb-2">No central storage</h4>
+            <p class="text-lg text-gray-400 text-center">You encrypted records are stored in the <b>Inter Planetary File System (IPFS)</b>. That means no single database to leak all records.</p>
           </div>
 
           <!-- 2nd item -->
@@ -30,8 +30,8 @@
               <path class="stroke-current text-purple-100" stroke-width="2" stroke-linecap="square" d="M21 23h22v18H21z" fill="none" fill-rule="evenodd" />
               <path class="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" stroke-width="2" stroke-linecap="square" />
             </svg>
-            <h4 class="h4 mb-2">Instant Features</h4>
-            <p class="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+            <h4 class="h4 mb-2">No central database</h4>
+            <p class="text-lg text-gray-400 text-center">Metadata about your records are stored on the <b>Polygon blockchain network</b>. Once added, this data cannot be tampered with.</p>
           </div>
 
           <!-- 3rd item -->
@@ -44,8 +44,8 @@
                 <circle class="stroke-current text-purple-100" cx="11" cy="11" r="11" />
               </g>
             </svg>
-            <h4 class="h4 mb-2">Instant Features</h4>
-            <p class="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+            <h4 class="h4 mb-2">No names</h4>
+            <p class="text-lg text-gray-400 text-center">All your records are stored with your public keys. <b>No names or personal data</b> is stored.</p>
           </div>
 
           <!-- 4th item -->
@@ -57,8 +57,8 @@
                 <circle class="stroke-current text-purple-300" cx="13" cy="9" r="3" />
               </g>
             </svg>
-            <h4 class="h4 mb-2">Instant Features</h4>
-            <p class="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+            <h4 class="h4 mb-2">Network of Re-Encryptors</h4>
+            <p class="text-lg text-gray-400 text-center">A decentralized network of <b>Umbral re-encryptors</b> is used to grant and revoke access. Each node handles only a small fragment of the keys.</p>
           </div>
 
           <!-- 5th item -->
@@ -70,8 +70,8 @@
                 <path class="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
               </g>
             </svg>
-            <h4 class="h4 mb-2">Instant Features</h4>
-            <p class="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+            <h4 class="h4 mb-2">Efficient</h4>
+            <p class="text-lg text-gray-400 text-center">Your records are uploaded and encrypted only once. Whenever you grant access to someone, the network of re-encryptors provide access to them without duplicating any data.</p>
           </div>
 
           <!-- 6th item -->
@@ -84,8 +84,8 @@
                 <path class="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
               </g>
             </svg>
-            <h4 class="h4 mb-2">Instant Features</h4>
-            <p class="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+            <h4 class="h4 mb-2">Traceable</h4>
+            <p class="text-lg text-gray-400 text-center">Any access granted or revoked is registered on the blockchain. This prevents unauthorized access and keeps a log of all events.</p>
           </div>
 
         </div>
